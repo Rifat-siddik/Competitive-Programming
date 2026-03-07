@@ -1,0 +1,1 @@
+print('Abubakkar siddik rifat')
